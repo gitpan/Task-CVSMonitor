@@ -3,7 +3,7 @@ package Task::CVSMonitor;
 use strict;
 use vars qw{$VERSION};
 BEGIN {
-	$VERSION = '0.006003';
+	$VERSION = '0.006004';
 }
 
 1;
@@ -23,7 +23,7 @@ version of CVS Monitor 0.6.3.
 
 =head1 AUTHOR
 
-Adam Kennedy E<lt>cpan@ali.asE<gt>, L<http://ali.as/>
+Adam Kennedy E<lt>adamk@cpan.orgE<gt>, L<http://ali.as/>
 
 =head1 SEE ALSO
 
@@ -31,7 +31,7 @@ L<Task>, L<http://ali.as/devel/cvsmonitor>
 
 =head1 COPYRIGHT
 
-Copyright 2005 Adam Kennedy. All rights reserved.
+Copyright 2005 Adam Kennedy.
 
 This program is free software; you can redistribute
 it and/or modify it under the same terms as Perl itself.
